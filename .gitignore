@@ -1,3 +1,2 @@
 node_modules
-.iptoasn.cache
-.iptoasn.tests.cache
+*.cache
